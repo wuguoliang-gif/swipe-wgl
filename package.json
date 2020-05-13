@@ -1,0 +1,27 @@
+{
+  "name": "swipe-wgl",
+  "version": "1.2.2",
+  "description": "canvas 擦除组件,支持移动端手势操作,丰富的参数配置.",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "canvas",
+    "swipe",
+    "touch"
+  ],
+  "author": "wgl",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-clean": "^2.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-uglify": "^4.0.1",
+    "grunt-text-replace": "^0.4.0"
+  }
+}
